@@ -1,0 +1,9 @@
+conda create -n obspy python=3.7
+conda activate obspy
+conda install -c conda-forge obspy
+conda install cartopy
+conda install pandas
+conda install geopandas
+conda install tkcalendar
+conda install openpyxl
+pip install tkcalendar
